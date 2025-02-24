@@ -1,0 +1,11 @@
+codigo = int(input('Informe o codigo do funcionário: ))
+nome = input('Digite o nome do funcionário:  )
+
+salario = float(inpu('Informe o salário do funcionário: ))
+
+tipo = type(salario)
+
+print('Código: %d' %codigo)
+print(Nome: %s' %nome)
+print(Salário: %.2f' %salario)
+print('Tipo: %r' %tipo)
