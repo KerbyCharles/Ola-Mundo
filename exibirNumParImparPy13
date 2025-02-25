@@ -1,0 +1,10 @@
+num = int(input(Digite um numero inteiro ))
+imparPar = num%2
+
+print('')
+
+
+if imparPar == 0:
+    print(str(num) + ' é Par')
+else:
+    print(str(num) + ' é Impar')    
