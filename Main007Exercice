@@ -6,6 +6,6 @@ mediafinal = (notaA + notaB) /2
 
 #Verificação
 if mediafinal >= 7.0:
-    print('Média %.2f - Aprovado ',mediafinal )
+    print('Média %.2f - Aprovado ' %mediafinal )
 else:
-    print('Média %.2f - Reprovado ',mediafinal)    
+    print('Média %.2f - Reprovado ' %mediafinal)    
